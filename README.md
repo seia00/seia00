@@ -4,7 +4,7 @@
   <img src="assets/terminal.svg" alt="Terminal: seia@memora. CTO @ Memora. ls now/ shows eldercare-ml, llm-on-8gb-vram, web3-hackathon" width="100%">
 </p>
 
-<img align="left" src="assets/orbit-pixel.png" alt="Pixel art" width="356">
+<img align="left" src="assets/orbit-pixel.png" alt="Pixel art of a spiked creature under a ringed planet" width="356">
 
 ### 🧠 Building Memora
 
